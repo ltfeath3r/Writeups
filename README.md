@@ -1,3 +1,3 @@
 # Writeups
-#Tesla Gateway Reverse Engineering 
-It's the IDB file after using IDApro to do my RE work. 
+Tesla Gateway Reverse Engineering 
+gtwidb.zip contains the IDB file after my RE work. 
